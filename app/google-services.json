@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "726820145397",
+    "firebase_url": "https://swipeup-2214d.firebaseio.com",
+    "project_id": "swipeup-2214d",
+    "storage_bucket": "swipeup-2214d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726820145397:android:94bc02bc66f10736e7ddbc",
+        "android_client_info": {
+          "package_name": "com.example.swipeup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726820145397-0fd8lj2ji34nu8o3frherp2h0dmjonu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swipeup",
+            "certificate_hash": "c0fc7dfb75a1d6a227c24d67cc62b581e4383dc7"
+          }
+        },
+        {
+          "client_id": "726820145397-sclcc5nb0c5tuf8p0glfkc37roa36854.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD7wF18h9tDH_HCJZBm6IwKrN9b4adkFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726820145397-sclcc5nb0c5tuf8p0glfkc37roa36854.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
